@@ -138,7 +138,7 @@ public class MainActivity extends Activity {
             markerOptions.draggable(true);
             markerOptions.title("THIS IS MY MARKER!");
             markerOptions.snippet("I can do what I want");
-            markerOptions.icon(BitmapDescriptorFactory.defaultMarker(139.0f));
+            markerOptions.icon(BitmapDescriptorFactory.fromResource(R.drawable.pins9));
 
             mMyMarker = mMap.addMarker(markerOptions);
 

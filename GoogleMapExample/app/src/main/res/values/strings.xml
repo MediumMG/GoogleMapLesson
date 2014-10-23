@@ -2,7 +2,12 @@
 <resources>
 
     <string name="app_name">GoogleMapExample</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <string name="settings">Settings</string>
+    <string name="go_to_london">Go to London</string>
+
+    <string name="london">London</string>
+    <string name="london_snippet">The capital of Great Britain</string>
+
+    <string name="draw_line">Draw Line</string>
 
 </resources>

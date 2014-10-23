@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/settings"
+        android:title="@string/settings"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom">
+
+        <menu>
+            <item android:id="@+id/go_to_london"
+                android:title="@string/go_to_london" />
+            <item android:id="@+id/draw_line"
+                android:title="@string/draw_line" />
+        </menu>
+
+    </item>
+</menu>

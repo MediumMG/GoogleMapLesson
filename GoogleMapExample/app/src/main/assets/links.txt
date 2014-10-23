@@ -1,8 +1,8 @@
 https://console.developers.google.com/project
+https://developers.google.com/maps/documentation/android/?hl=cs
+https://developers.google.com/maps/documentation/directions/
 
 SHA1 fingerprint: 24:7F:D8:E3:E2:F6:1C:4E:06:E1:B5:81:A6:CF:AF:93:3E:C1:F7:08
 
-https://developers.google.com/maps/documentation/android/?hl=cs
-
-https://developers.google.com/maps/documentation/directions/
-Example: http://maps.googleapis.com/maps/api/directions/json?origin=51.5286417,-0.1015987&destination=51.500912,-0.126205&sensor=false
+Example:
+http://maps.googleapis.com/maps/api/directions/json?origin=51.5286417,-0.1015987&destination=51.500912,-0.126205&sensor=false
